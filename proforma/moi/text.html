@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"/>
+</script>
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $('form#form').submit(function() {
+                var val = $('input#filtre').val();
+
+                $('table#tab > tbody > tr').each(function() {
+                    $(this).children().each(function() {
+                        if($(this).is(':contains("'+val+'")')) {
+                            $(this).attr('class', 'jaune');
+                        } else {
+                            $(this).attr('class', 'defaut');
+                        }
+                    });
+                });
+
+                return false;
+            });
+
+        });
+</script>
+<style type="text/css">
+    .defaut {
+        background-color: white;
+    }
+    .jaune {
+        background-color: yellow;
+    }
+</style>
+<body>
+
+
+<form id="form">
+    <input type="text" name="filtre" id="filtre" />
+    <input type="submit" value="Filtrer" />
+</form>
+
+<table id="tab">
+    <tr>
+        <td>A-1</td>
+        <td>A-2</td>
+        <td>A-3</td>
+    </tr>
+    <tr>
+        <td>B-1</td>
+        <td>B-2</td>
+        <td>B-3</td>
+    </tr>
+    <tr>
+        <td>C-1</td>
+        <td>C-2</td>
+        <td>C-3</td>
+    </tr>
+</table>
+</body>
+</html>

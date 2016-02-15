@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/article.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aside.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/automatisme.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/baking_Rodeo_portails_battant.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_RODEO_auto_portes_fenetres_store_volets.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_Rodeo_portails_sec.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_Rodeo_serrure_intel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_barrieres_levante_automatique.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_lecteurs_biometriques.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_ptz_camera.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/banking_special_camera.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/company_profile.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controlleur/cotation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controlleur/supp_tech.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cotation.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lens_compa.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licence" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/contr/controller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/cree_client.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/cree_client2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/cree_tech.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/pro.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/pro2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/prod.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/mod/prod2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/cree_client.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/cree_tech.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/detail.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/elements/proformat.corps.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/elements/proformat.footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/elements/proformat.header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/elements/proformat.index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/list_prof.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/logout.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/next/proformat.corps.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/next/proformat.footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/next/proformat.header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/next/proformat.index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/ui.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proforma/moi/view_client.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/support_tech.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_surveillance.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_surveillance1.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_surveillance2.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_surveillance3.php" charset="UTF-8" />
+  </component>
+</project>

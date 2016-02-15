@@ -1,0 +1,12 @@
+HTTP/1.1 304 Not Modified
+Server: BoostWeb/5.99.18.8-HEAD
+Date: Mon, 19 Oct 2015 01:12:49 GMT
+Age: 0
+Content-Length: 0
+Last-Modified: Sun, 24 Feb 2013 13:27:04 GMT
+Expires: Mon, 19 Oct 2015 02:20:08 GMT
+Cache-Control: no-store, private
+Connection: keep-alive
+Content-Type: image/png
+Accept-Ranges: bytes
+
