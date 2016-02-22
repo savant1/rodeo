@@ -188,7 +188,7 @@
                                 <div class="content clearfix">
                                     <center>
                                         <p>
-                                            <img width="150" height="140" src="images/product_thumbs/faac-logo-faac.jpg"/>
+                                            <img width="150" height="140" src="images/product_thumbs/barriere_levante_faac.jpg"/>
                                         </p>
                                     </center>
                                     <h4>Modele disponible &#8211;  Portes sectionnelles:</h4>
