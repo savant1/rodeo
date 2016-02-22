@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" afterPath="$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="" />
     <ignored path="rodeo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -34,11 +30,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="banking_Rodeo_portails_coulissant.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php">
+      <file leaf-file-name="aside.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aside.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.768797">
-              <caret line="375" column="69" selection-start-line="375" selection-start-column="69" selection-end-line="375" selection-end-column="69" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banking_RODEO_access_control.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banking_Rodeo_serrure_hotel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-44.307693">
+              <caret line="195" column="85" selection-start-line="195" selection-start-column="85" selection-end-line="195" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="licence.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/licence.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banking_Rodeo_serrure_intel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_intel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="264" column="38" selection-start-line="189" selection-start-column="32" selection-end-line="264" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -54,9 +90,6 @@
         <option value="Html5" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,6 +126,7 @@
         <option value="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" />
         <option value="$PROJECT_DIR$/banking_ptz_camera.php" />
         <option value="$PROJECT_DIR$/banking_Mice_Video_Door_Phones.php" />
+        <option value="$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" />
         <option value="$PROJECT_DIR$/baking_Rodeo_portails_battant.php" />
         <option value="$PROJECT_DIR$/banking_ barrieres_levante_automatique.php" />
         <option value="$PROJECT_DIR$/banking_barrieres_levante_automatique.php" />
@@ -111,7 +145,6 @@
         <option value="$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php" />
         <option value="$PROJECT_DIR$/licence" />
         <option value="$PROJECT_DIR$/licence.html" />
-        <option value="$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" />
       </list>
     </option>
   </component>
@@ -132,7 +165,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -155,8 +188,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,15 +208,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apps" />
     <property name="FullScreen" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
@@ -246,14 +279,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.204236" sideWeight="0.4880546" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20121029" sideWeight="0.4880546" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3407155" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.48976108" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19667171" sideWeight="0.51194537" order="2" side_tool="true" content_ui="tabs" />
@@ -261,7 +294,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.4941435" order="1" side_tool="false" content_ui="tabs" />
@@ -477,6 +509,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6285178">
+          <caret line="329" column="96" selection-start-line="329" selection-start-column="96" selection-end-line="329" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/yoo_revista_wp/apple_touch_icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -537,6 +577,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5319549">
           <caret line="175" column="31" selection-start-line="175" selection-start-column="31" selection-end-line="175" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -559,6 +600,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.381579">
           <caret line="19" column="132" selection-start-line="19" selection-start-column="132" selection-end-line="19" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
           <folding />
         </state>
       </provider>
@@ -587,10 +636,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aside.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proforma/contr/controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_user..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT id_us..rodeo_user..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_user..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT email..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT email..rodeo_user..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_article..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT prix_..rodeo_article..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_temp_prof..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_temp_prof..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..rodeo_temp_prof..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..rodeo_temp_prof..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_client..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_temp_prof..." />
+            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_user..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -598,43 +701,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/licence.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8947368">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1654136">
+        <state vertical-scroll-proportion="-44.307693">
           <caret line="195" column="85" selection-start-line="195" selection-start-column="85" selection-end-line="195" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
+    <entry file="file://$PROJECT_DIR$/licence.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041353382">
-          <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aside.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42481202">
-          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.768797">
-          <caret line="375" column="69" selection-start-line="375" selection-start-column="69" selection-end-line="375" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
