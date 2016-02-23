@@ -322,6 +322,70 @@
                                     </table>
                                     </p>
                                     <hr class="dotted" />
+                                    <hr class="dotted" />
+                                    <p>
+                                    <table border="0" width="700" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="center" width="225">
+                                                <img src="images/portail_colissant/images/C850_532015RevB_FR.jpg" alt="portails coulissant" width="200" height="200"/>
+                                            </td>
+                                            <td colspan="2" align="left">
+                                                <ul class="line line-icon">
+                                                    <li>systeme de bain d'huile pour usage intensif</li>
+                                                    <li>gestion des ralentissements</li>
+                                                    <li>systeme autobloquant</li>
+                                                    <li>possede un dispositif de devrouillage a la clef</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" width="225">
+                                                <a class="button-more" target="_blank" href="images/portail_colissant/fichiers/C850_532015RevB_FR.pdf">
+                                                    Motoreducteur 850
+                                                </a>
+                                            </td>
+                                            <td>
+
+                                            </td>
+                                            <td align="right" width="125">
+                                                <font color="#0078ff">Made in FAAC</font>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    </p>
+                                    <hr class="dotted" />
+                                    <hr class="dotted" />
+                                    <p>
+                                    <table border="0" width="700" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td align="center" width="225">
+                                                <img src="images/portail_colissant/images/884-884T_RevC_F.jpg" alt="portails coulissant" width="200" height="200"/>
+                                            </td>
+                                            <td colspan="2" align="left">
+                                                <ul class="line line-icon">
+                                                    <li>systeme de bain d'huile pour usage intensif</li>
+                                                    <li>gestion des ralentissements</li>
+                                                    <li>systeme autobloquant</li>
+                                                    <li>possede un dispositif de devrouillage a la clef</li>
+                                                </ul>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" width="225">
+                                                <a class="button-more" target="_blank" href="images/portail_colissant/fichiers/884-884T_RevC_F.pdf">
+                                                    Motoreducteur 884
+                                                </a>
+                                            </td>
+                                            <td>
+
+                                            </td>
+                                            <td align="right" width="125">
+                                                <font color="#0078ff">Made in FAAC</font>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    </p>
+                                    <hr class="dotted" />
 
                                     <hr class="dotted" />
                                     <hr class="dotted" />
