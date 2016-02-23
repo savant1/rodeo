@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_special_camera.php" afterPath="$PROJECT_DIR$/banking_special_camera.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/licence.html" afterPath="$PROJECT_DIR$/licence.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rodeo.iws" />
@@ -86,7 +87,7 @@
       <file leaf-file-name="banking_special_camera.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/banking_special_camera.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48967552">
+            <state vertical-scroll-proportion="0.31203008">
               <caret line="476" column="180" selection-start-line="476" selection-start-column="180" selection-end-line="476" selection-end-column="180" />
               <folding />
             </state>
@@ -115,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index7f82.html" />
         <option value="$PROJECT_DIR$/controlleur/cotation.php" />
         <option value="$PROJECT_DIR$/lens_compa.php" />
         <option value="$PROJECT_DIR$/proforma/moi/next/proformat.header.php" />
@@ -159,13 +159,14 @@
         <option value="$PROJECT_DIR$/aside.php" />
         <option value="$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php" />
         <option value="$PROJECT_DIR$/licence" />
-        <option value="$PROJECT_DIR$/licence.html" />
         <option value="$PROJECT_DIR$/banking_IR_Bullet_Cameras.php" />
         <option value="$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php" />
         <option value="$PROJECT_DIR$/banking_ptz_camera.php" />
         <option value="$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php" />
         <option value="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" />
         <option value="$PROJECT_DIR$/banking_special_camera.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/licence.html" />
       </list>
     </option>
   </component>
@@ -308,7 +309,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456242080492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modification sur les images des fournisseurs bis">
+      <created>1456242119675</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1456242119675</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -317,7 +324,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32753405" sideWeight="0.4880546" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3407155" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -350,7 +357,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modification sur les images des fournisseurs" />
-    <option name="LAST_COMMIT_MESSAGE" value="modification sur les images des fournisseurs" />
+    <MESSAGE value="modification sur les images des fournisseurs bis" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification sur les images des fournisseurs bis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -713,7 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/banking_special_camera.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48967552">
+        <state vertical-scroll-proportion="0.31203008">
           <caret line="476" column="180" selection-start-line="476" selection-start-column="180" selection-end-line="476" selection-end-column="180" />
           <folding />
         </state>
