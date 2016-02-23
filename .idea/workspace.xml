@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="modification sur les images des fournisseurs">
+    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_special_camera.php" afterPath="$PROJECT_DIR$/banking_special_camera.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -302,7 +302,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456241809647</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modification sur les images des fournisseurs">
+      <created>1456242080492</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456242080492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">

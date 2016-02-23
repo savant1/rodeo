@@ -474,7 +474,7 @@
                                     <table border="0" width="700" cellspacing="0" cellpadding="0">
                                         <tr>
                                             <td align="center" width="225">
-                                                <img src="images/camera/analo%20camera1/images/CAMERA%20SPECIALE/EW-4301.jpg" alt="Video doorphone ZDL-97TM" width="200" height="193"/>
+                                                <img src="images/camera/analo%20camera1/images/CAMERA%20SPECIALE/EW-4301.jpg" alt="Video doorphone ZDL-97TM" width="200" height="200"/>
                                             </td>
                                             <td colspan="2" align="left">
                                                 <ul class="line line-icon">
