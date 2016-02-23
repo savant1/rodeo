@@ -197,7 +197,7 @@
 								<div class="content clearfix">
 									<center>
 										<p>
-											<img width="150" height="140" src="images/product_thumbs/index_01.gif"/>
+											<img src="images/product_thumbs/index_01.gif"/>
 										</p>
 									</center>
 									<hr class="dotted" />
@@ -206,7 +206,7 @@
 									<p>
 									<table border="0" width="700" cellspacing="0" cellpadding="0">
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="0">
 												<img src="images/camera/analo%20camera1/images/CAMERA%20A%20TUBE/AHW1004%20AHW1304.jpg" alt="rodeo camera a tube" width="200" height="110"/>
 											</td>
 											<td colspan="2" align="left">

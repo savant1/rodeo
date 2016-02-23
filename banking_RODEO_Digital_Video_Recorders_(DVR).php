@@ -200,7 +200,7 @@
 			</header>
 			
 			<div class="content clearfix"><center>
-<p><img width="175" height="50" src="images/company_logos/company_logos_01_iptec.png"/></p></center>
+<p> <img  src="images/product_thumbs/index_01.gif"/></p></center>
 <h4>Below are the IPTEC Digital Video Recorders (DVR):</h4>
 <hr class="dotted" />
 

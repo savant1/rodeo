@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="" />
+    <list default="true" id="0ce4408b-139c-4b2d-82e2-95d2c4073544" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_IR_Bullet_Cameras.php" afterPath="$PROJECT_DIR$/banking_IR_Bullet_Cameras.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php" afterPath="$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" afterPath="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_ptz_camera.php" afterPath="$PROJECT_DIR$/banking_ptz_camera.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php" afterPath="$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banking_special_camera.php" afterPath="$PROJECT_DIR$/banking_special_camera.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="rodeo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -30,51 +39,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="aside.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aside.php">
+      <file leaf-file-name="banking_IR_Bullet_Cameras.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_IR_Bullet_Cameras.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+            <state vertical-scroll-proportion="-16.5">
+              <caret line="208" column="71" selection-start-line="208" selection-start-column="71" selection-end-line="208" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banking_RODEO_access_control.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
+      <file leaf-file-name="banking_rodeo_Dome_Cameras.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
+            <state vertical-scroll-proportion="-10.038462">
+              <caret line="280" column="72" selection-start-line="280" selection-start-column="72" selection-end-line="280" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banking_Rodeo_serrure_hotel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php">
+      <file leaf-file-name="banking_ptz_camera.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_ptz_camera.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-44.307693">
-              <caret line="195" column="85" selection-start-line="195" selection-start-column="85" selection-end-line="195" selection-end-column="85" />
+            <state vertical-scroll-proportion="-5.576923">
+              <caret line="191" column="43" selection-start-line="191" selection-start-column="43" selection-end-line="191" selection-end-column="92" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="licence.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/licence.html">
+      <file leaf-file-name="banking_RODEO_Digital_Video_Recorders_(DVR).php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7988722">
-              <caret line="25" column="55" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
+            <state vertical-scroll-proportion="-14.038462">
+              <caret line="202" column="52" selection-start-line="202" selection-start-column="52" selection-end-line="202" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="banking_Rodeo_serrure_intel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_intel.php">
+      <file leaf-file-name="banking_Rodeo_dvr_nvr.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="264" column="38" selection-start-line="189" selection-start-column="32" selection-end-line="264" selection-end-column="38" />
+            <state vertical-scroll-proportion="-7.5384617">
+              <caret line="191" column="49" selection-start-line="191" selection-start-column="49" selection-end-line="191" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banking_special_camera.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/banking_special_camera.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7669173">
+              <caret line="191" column="49" selection-start-line="191" selection-start-column="49" selection-end-line="191" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -91,8 +110,13 @@
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="savant1" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,7 +134,6 @@
         <option value="$PROJECT_DIR$/bankins.php" />
         <option value="$PROJECT_DIR$/banking_Mice_Lobby_Apartment_Video_Door_Phone_Systems.php" />
         <option value="$PROJECT_DIR$/banking_rodeo_access_controle.php" />
-        <option value="$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php" />
         <option value="$PROJECT_DIR$/banking_RODEO_Housings_Brackets_Monitors_&amp;_BVC_Software.php" />
         <option value="$PROJECT_DIR$/banking_RODEO_ztkeko_access_control.php" />
         <option value="$PROJECT_DIR$/banking_ZKTeco_Tripod_Turnstiles.php" />
@@ -123,11 +146,6 @@
         <option value="$PROJECT_DIR$/video_surveillance2.php" />
         <option value="$PROJECT_DIR$/video_surveillance3.php" />
         <option value="$PROJECT_DIR$/banking_RODEO_Bosch_IP_Cameras _ Advantage_Line.php" />
-        <option value="$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php" />
-        <option value="$PROJECT_DIR$/banking_IR_Bullet_Cameras.php" />
-        <option value="$PROJECT_DIR$/banking_special_camera.php" />
-        <option value="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" />
-        <option value="$PROJECT_DIR$/banking_ptz_camera.php" />
         <option value="$PROJECT_DIR$/banking_Mice_Video_Door_Phones.php" />
         <option value="$PROJECT_DIR$/banking_Rodeo_portails_coulissant.php" />
         <option value="$PROJECT_DIR$/baking_Rodeo_portails_battant.php" />
@@ -148,6 +166,12 @@
         <option value="$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php" />
         <option value="$PROJECT_DIR$/licence" />
         <option value="$PROJECT_DIR$/licence.html" />
+        <option value="$PROJECT_DIR$/banking_IR_Bullet_Cameras.php" />
+        <option value="$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php" />
+        <option value="$PROJECT_DIR$/banking_ptz_camera.php" />
+        <option value="$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php" />
+        <option value="$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php" />
+        <option value="$PROJECT_DIR$/banking_special_camera.php" />
       </list>
     </option>
   </component>
@@ -168,7 +192,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -191,6 +215,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,13 +236,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apps" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angularjsformation" />
     <property name="FullScreen" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -284,25 +308,26 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20121029" sideWeight="0.4880546" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32223904" sideWeight="0.4880546" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3407155" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.48976108" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19667171" sideWeight="0.51194537" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.4941435" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -315,6 +340,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modification sur les images des fournisseurs" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification sur les images des fournisseurs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -332,13 +361,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64915574">
           <caret line="229" column="63" selection-start-line="229" selection-start-column="63" selection-end-line="229" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64915574">
-          <caret line="371" column="63" selection-start-line="371" selection-start-column="63" selection-end-line="371" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -439,56 +461,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="769" column="40" selection-start-line="769" selection-start-column="40" selection-end-line="776" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/yoo_revista_wp/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banking_IR_Bullet_Cameras.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="510" column="40" selection-start-line="508" selection-start-column="36" selection-end-line="510" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_special_camera.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="326" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="517" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/camera/DVR/images/AHD8616FH.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="347" column="73" selection-start-line="347" selection-start-column="73" selection-end-line="347" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_ptz_camera.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="413" column="28" selection-start-line="413" selection-start-column="28" selection-end-line="413" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_RODEO_Bosch_IP_Cameras _ Advantage_Line.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7593985">
-          <caret line="236" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="238" selection-end-column="36" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/banking_Mice_Video_Door_Phones.php">
@@ -608,14 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/faq.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83168316">
@@ -640,64 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aside.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proforma/contr/controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_user..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT id_us..rodeo_user..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_user..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT email..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT email..rodeo_user..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_article..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT prix_..rodeo_article..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_temp_prof..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..rodeo_temp_prof..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..rodeo_temp_prof..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..rodeo_temp_prof..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_client..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_temp_prof..." />
-            <marker date="1453833128307" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..rodeo_user..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,22 +623,91 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-44.307693">
-          <caret line="195" column="85" selection-start-line="195" selection-start-column="85" selection-end-line="195" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/licence.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7988722">
-          <caret line="25" column="55" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.8947368">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_Rodeo_serrure_hotel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1654136">
+          <caret line="195" column="85" selection-start-line="195" selection-start-column="85" selection-end-line="195" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_RODEO_access_control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041353382">
+          <caret line="210" column="84" selection-start-line="210" selection-start-column="84" selection-end-line="210" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aside.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42481202">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_RODEO_Bosch_IP_Cameras _ Advantage_Line.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.461538">
+          <caret line="222" column="40" selection-start-line="222" selection-start-column="40" selection-end-line="222" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_ptz_camera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.576923">
+          <caret line="191" column="43" selection-start-line="191" selection-start-column="43" selection-end-line="191" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_rodeo_Dome_Cameras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.038462">
+          <caret line="280" column="72" selection-start-line="280" selection-start-column="72" selection-end-line="280" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_IR_Bullet_Cameras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.5">
+          <caret line="208" column="71" selection-start-line="208" selection-start-column="71" selection-end-line="208" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_RODEO_Digital_Video_Recorders_(DVR).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.038462">
+          <caret line="202" column="52" selection-start-line="202" selection-start-column="52" selection-end-line="202" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_Rodeo_dvr_nvr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5384617">
+          <caret line="191" column="49" selection-start-line="191" selection-start-column="49" selection-end-line="191" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/banking_special_camera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7669173">
+          <caret line="191" column="49" selection-start-line="191" selection-start-column="49" selection-end-line="191" selection-end-column="49" />
           <folding />
         </state>
       </provider>

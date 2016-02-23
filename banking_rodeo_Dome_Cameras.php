@@ -197,14 +197,14 @@
 								<div class="content clearfix">
 									<center>
 										<p>
-											<img width="150" height="140" src="images/product_thumbs/index_01.gif"/>
+											<img  src="images/product_thumbs/index_01.gif"/>
 										</p>
 									</center>
 									<hr class="dotted" />
 									<p>
 									<table border="0" width="700" cellspacing="0" cellpadding="0">
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<img src="images/camera/analo%20camera1/images/CAMERA%20DOME/ahd1009irahv1209ir.jpg" alt="Video " width="200" height="200"/>
 											</td>
 											<td colspan="2" align="left">
@@ -216,7 +216,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<a class="button-more" target="_blank" href="images/camera/analo%20camera1/fichier/AHV1009IR AHV1209IR-CCDCAM.pdf">
 													AHV1009IR/AHV1209IR
 												</a>
@@ -235,7 +235,7 @@
 									<p>
 									<table border="0" width="700" cellspacing="0" cellpadding="0">
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<img src="images/camera/analo%20camera1/images/CAMERA%20DOME/ahv1003%20ahv1303.jpg" alt="Video " width="200" height="200"/>
 											</td>
 											<td colspan="2" align="left">
@@ -247,7 +247,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<a class="button-more" target="_blank" href="images/camera/analo%20camera1/fichier/AHV1003 AHV1303-CCDCAM.pdf">
 													AHV1003/AHV1303
 												</a>
@@ -266,7 +266,7 @@
 									<p>
 									<table border="0" width="700" cellspacing="0" cellpadding="0">
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<img src="images/camera/analo%20camera1/images/CAMERA%20DOME/CE-D6085%20D6585%20D7085.jpg" alt="Video " width="200" height="200"/>
 											</td>
 											<td colspan="2" align="left">
@@ -278,7 +278,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td align="center" width="225">
+											<td align="center" width="10">
 												<a class="button-more" target="_blank" href="images/camera/analo%20camera1/fichier/EC-D6085 D6585 D7085-CCDCAM.pdf">
 													EC-D6085 D6585 D7085
 												</a>

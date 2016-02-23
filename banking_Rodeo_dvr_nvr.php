@@ -189,7 +189,7 @@
                                 <div class="content clearfix">
                                     <center>
                                         <p>
-                                            <img width="150" height="140" src="images/product_thumbs/index_01.gif"/>
+                                            <img  src="images/product_thumbs/index_01.gif"/>
                                         </p>
                                     </center>
                                     <hr class="dotted" />
